@@ -4,6 +4,6 @@ signed main(){
     int k=(i++)+(i++)+(i++);
     printf("%d\n",k);
     printf("HelloWorld这是new");
-    ptintf("HHH");
+    printf("HHH");
     return 0;
 }
